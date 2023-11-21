@@ -1,5 +1,0 @@
-TASK 3:
-comp.graphics
-talk.politics.guns
-talk.politics.mideast
-talk.politics.mideast
