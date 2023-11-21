@@ -1,0 +1,5 @@
+TASK 3:
+sci.space
+talk.politics.mideast
+talk.politics.misc
+rec.sport.hockey
